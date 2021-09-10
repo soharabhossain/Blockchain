@@ -1,5 +1,6 @@
 # Blockchain
-Resources related to Blockchain Technology
+
+## Resources related to Blockchain Technology
 
 
 1. Satoshi Nakamoto - Bitcoin: A Peer-to-Peer Electronic Cash System; 2008. 
@@ -57,9 +58,9 @@ https://www.blockchain-council.org/category/infographics/
 16. List of 10 Best Blockchain Tools
 https://101blockchains.com/best-blockchain-tools/
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Blockchain and Cryptocurrency Related Courses
+## Blockchain and Cryptocurrency Related Courses
 
 ----------------------------------------------------------------------
 Coursera: 
@@ -76,5 +77,5 @@ https://cs251.stanford.edu/
 Blockchain and Cryptocurrency: What You Need to Know
 https://online.stanford.edu/courses/soe-xcs0001-blockchain-and-cryptocurrency-what-you-need-know
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
