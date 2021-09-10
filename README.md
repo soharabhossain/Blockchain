@@ -77,5 +77,5 @@ https://cs251.stanford.edu/
 Blockchain and Cryptocurrency: What You Need to Know
 https://online.stanford.edu/courses/soe-xcs0001-blockchain-and-cryptocurrency-what-you-need-know
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
