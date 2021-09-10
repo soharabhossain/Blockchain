@@ -58,7 +58,9 @@ https://www.blockchain-council.org/category/infographics/
 https://101blockchains.com/best-blockchain-tools/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Blockchain and Cryptocurrency Related Courses
+
 ----------------------------------------------------------------------
 Coursera: 
 https://www.coursera.org/courses?query=blockchain
