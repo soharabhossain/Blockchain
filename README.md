@@ -65,6 +65,7 @@ https://101blockchains.com/best-blockchain-tools/
 ----------------------------------------------------------------------
 Coursera: 
 https://www.coursera.org/courses?query=blockchain
+
 EdX: 
 https://www.edx.org/learn/blockchain
 
